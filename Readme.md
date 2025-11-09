@@ -114,6 +114,4 @@ Output:
 {"result": {"role": "assistant", "content": [{"text": "Hello! How are you doing today?"}]}}
 ```
 
-pics/Screenshot 2025-11-09 174340.png
-
-
+![Agent Output](pics/Screenshot%202025-11-09%20174340.png)
