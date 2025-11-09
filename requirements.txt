@@ -1,0 +1,4 @@
+# This file tells the deployment toolkit what libraries your agent needs
+
+bedrock-agentcore
+strands-agents

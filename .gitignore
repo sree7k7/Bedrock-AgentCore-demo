@@ -1,0 +1,16 @@
+# 1. AWS Secrets and Config
+# THIS FILE CONTAINS YOUR ACCOUNT ID AND RESOURCE ARNS.
+# NEVER COMMIT THIS TO A PUBLIC REPOSITORY.
+.bedrock_agentcore.yaml
+
+# 2. Python Virtual Environment
+# This is local to your machine and can be huge.
+.venv/
+
+# 3. Python Cache
+__pycache__/
+*.pyc
+
+# 4. OS-specific files
+.DS_Store
+Thumbs.db
