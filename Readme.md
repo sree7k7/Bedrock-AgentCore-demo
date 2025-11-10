@@ -31,7 +31,7 @@ pip install bedrock-agentcore strands-agents bedrock-agentcore-starter-toolkit
 ```
 📖 Why you're doing this:
 *bedrock-agentcore*: This is the main SDK that lets your python code talk to AgentCore services.
-*strands-agents*: This is an open-source framework for building AI agents in few line of code.
+*strands-agents*: This SDK is an open-source framework for building and running AI agents in few line of code.
 *bedrock-agentcore-starter-toolkit*: This is a utility that makes it much easier to deploy your agent to the ```AgentCore Runtime```.
 2. Agent Code and libraries
 
