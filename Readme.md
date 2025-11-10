@@ -5,7 +5,7 @@ To write, package, and deploy basic AI agent to the AWS cloud using the AgentCor
  - AI agent deployment locally on machine
  - AI agent deployment in cloud
 
-### Pre-requsites
+### Prerequsites
 - AWS account with permissions for Bedrock AgentCore
 - Python 3
 - AWS [CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
@@ -31,7 +31,7 @@ pip install bedrock-agentcore strands-agents bedrock-agentcore-starter-toolkit
 ```
 📖 Why you're doing this:
 *bedrock-agentcore*: This is the main SDK that lets your python code talk to AgentCore services.
-*strands-agent*: This is an open-source framework for building and running AI agents in few line of code.
+*strands-agents*: This is an open-source framework for building AI agents in few line of code.
 *bedrock-agentcore-starter-toolkit*: This is a utility that makes it much easier to deploy your agent to the ```AgentCore Runtime```.
 2. Agent Code and libraries
 
